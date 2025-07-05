@@ -1,0 +1,16 @@
+{
+  "name": "deep-backend",
+  "version": "1.0.0",
+  "description": "a backend with Deep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "backend",
+    "Deep"
+  ],
+  "author": "DEEPSHIKHA YADAV",
+  "license": "ISC"
+}
